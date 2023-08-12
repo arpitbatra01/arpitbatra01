@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/arpitbatra19" target="blank"><img src="https://img.shields.io/twitter/follow/arpitbatra19?logo=twitter&style=for-the-badge" alt="arpitbatra19" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio website](arpitbatralive.netlify.app)
+- 🔭 I’m currently working on [My portfolio website](https://arpitbatralive.netlify.app)
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [arpitbatralive.netlify.app](arpitbatralive.netlify.app)
+- 👨‍💻 All of my projects are available at [arpitbatralive.netlify.app](https://arpitbatralive.netlify.app)
 
 - 📫 How to reach me **arpitbatra59@gmail.com**
 
